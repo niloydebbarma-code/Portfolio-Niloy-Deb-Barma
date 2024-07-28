@@ -55,4 +55,4 @@ Feel free to reach out to me via the contact form on the website or through my s
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/niloydebbarma-code/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/blob/0647faf9b44da8382b36b7fda2b21c0a359842d5/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/niloydebbarma-code/Portfolio-Niloy-Deb-Barma/blob/f5e960e2eb6628cb328145efbe511e8a13d6df1e/LICENSE) file for details.
